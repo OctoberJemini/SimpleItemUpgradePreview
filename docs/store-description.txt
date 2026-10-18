@@ -1,0 +1,38 @@
+SIMPLE ITEM UPGRADE PREVIEW
+
+SHORT DESCRIPTION
+See current and upgraded item stats side by side in Valheim's Upgrade panel before you spend your materials. Simple, client-side, and built into the existing interface.
+
+FULL DESCRIPTION
+Know what you're getting before you upgrade.
+
+Simple Item Upgrade Preview shows your item's current stats alongside its next upgrade values, right inside Valheim's existing Upgrade panel. Select a weapon, piece of armour, or shield and see the improvement before spending your materials.
+
+Changed stats appear as current → upgraded values, with the current value in grey and the upgraded value in gold. Stats that stay the same keep their usual appearance, making improvements easy to spot.
+
+Examples from the screenshots:
+• Bronze Sword — Slash: 35 → 41; Durability: 200 → 250.
+• Bronze Plate Tunic — Armour: 8 → 10; Durability: 1000 → 1200.
+• Finewood Bow — Pierce: 35 → 38; Durability: 150 → 200.
+• Wood Shield — Block armour: 6 → 12; Block force: 20 → 25.
+
+FEATURES
+• Compare damage, armour, durability, and supported blocking stats as you upgrade.
+• View comparisons directly in the existing Upgrade panel.
+• Highlight only stats that change.
+• Get started without extra windows, hotkeys, or configuration.
+• Install on your client; no server installation is required.
+
+HOW TO USE
+Open a crafting station, select the Upgrade tab, and choose an item. Its description will show current → upgraded values for supported stats that improve at the next quality level.
+
+READING THE PREVIEW
+Durability compares maximum durability at each quality level, rather than the item's current wear. Damage ranges in parentheses refer to the upgraded item's skill-dependent damage range.
+
+The mod changes the displayed comparison text. Upgrade costs, crafting requirements, item stats, and upgrade results remain controlled by the game and your other mods.
+
+COMPATIBILITY
+Requires BepInEx. Designed for the standard Valheim Upgrade panel. Mods that replace that panel may affect compatibility. Preview values come from the selected item's tooltips, so other mods can influence the displayed numbers.
+
+SCREENSHOTS
+Values shown were captured in a modded playthrough and may differ from your game. The screenshots demonstrate the comparison display, not a promise of specific item balance values.
