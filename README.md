@@ -1,7 +1,5 @@
 # Simple Item Upgrade Preview
 
-<img src="docs/oct-emblem.png" alt="OCT creator emblem" width="160">
-
 **Know what you’re getting before you upgrade.**
 
 See your item’s current stats alongside its next upgrade values, right inside Valheim’s existing Upgrade panel. Compare improvements before spending your materials, with no extra windows, hotkeys, or configuration.
