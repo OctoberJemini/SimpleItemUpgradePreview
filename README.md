@@ -1,5 +1,7 @@
 # Simple Item Upgrade Preview
 
+<img src="thunderstore/icon.png" alt="Simple Item Upgrade Preview by OCT" width="256">
+
 **Know what you’re getting before you upgrade.**
 
 See your item’s current stats alongside its next upgrade values, right inside Valheim’s existing Upgrade panel. Compare improvements before spending your materials, with no extra windows, hotkeys, or configuration.
@@ -35,7 +37,7 @@ Requires Valheim and BepInEx 5. Build the DLL using the instructions below, then
 
 If replacing the earlier locally named `SimpleUpgradePreview.dll`, remove that previous DLL first. Both use the same plugin identifier: `local.che.simpleupgradepreview`.
 
-To uninstall, remove this mod’s DLL. Do not manually register it in your mod manager’s `mods.yml`; this repository is not a Thunderstore import package.
+To uninstall, remove this mod’s DLL. Do not manually register it in your mod manager’s `mods.yml`; use the packaged ZIP for mod-manager imports.
 
 ## Build and test
 
@@ -59,3 +61,4 @@ On an unexpected preview error, the mod logs a warning and disables its comparis
 ## Reporting issues
 
 Include your Valheim and BepInEx versions, relevant UI or item mods, the selected item and quality, a screenshot, and relevant log excerpts. Remove personal information before sharing logs.
+

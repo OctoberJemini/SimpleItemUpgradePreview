@@ -1,0 +1,9 @@
+{
+  "version_number": "1.0.0",
+  "name": "Simple_Item_Upgrade_Preview",
+  "website_url": "https://github.com/OctoberJemini/SimpleItemUpgradePreview",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351"
+  ],
+  "description": "See current and upgraded item stats side by side in the existing Upgrade panel before spending materials. Client-side, with no extra windows or configuration."
+}
